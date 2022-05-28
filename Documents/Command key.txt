@@ -1,0 +1,3 @@
+Ctrl + Enter =  Run
+Ctrl + /     =  Toggle command
+Ctrl + Z     =  Back up 

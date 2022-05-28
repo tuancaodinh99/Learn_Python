@@ -1,0 +1,9 @@
+
+-----------Day 1---------------
+
+Double quote: Dấu ngoặc kép
+Indentation error: Lỗi thụt lề
+Concatenation: Nối lại 
+Single quote: Dấu nháy đơn
+Stuck: Mắc kẹt
+Parenthese: Dấu ngoặc kép
