@@ -1,3 +1,10 @@
 Ctrl + Enter =  Run
 Ctrl + /     =  Toggle command
 Ctrl + Z     =  Back up 
+
+
+
+
+
+
+If you want to debug code,you can install Thonny.
